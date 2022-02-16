@@ -301,7 +301,7 @@ files:
 - name: src/tictactoe/GameBoard.java
   visible: true
   learner_created: true
-feedback_link: https://hyperskill.org/projects/48/stages/258/implement#comment
+feedback_link: https://hyperskill.org/learn/step/5400#comment
 status: Solved
 feedback:
   message: Congratulations!
